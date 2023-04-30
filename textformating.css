@@ -1,0 +1,46 @@
+#textheading{
+    font-size: 20px;
+    color: red;
+
+}
+#paraid{
+    font-size: 30;
+    font-weight: normal;/*400-700*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 2;
+    /* text-transform: uppercase;
+    text-transform: lowercase; */
+    text-transform: capitalize;
+    text-indent: 100px; /*space adding from front side*/
+    /* letter-spacing: 2px; */
+    word-spacing: 10px;
+    line-height: 40px;
+
+}
+#shadowid{
+    text-shadow: 10px 10px 2px blue; /*horizontal,vertical,blur,color*/
+    color: red;
+
+}
+#shawdopg{
+/* white-space: nowrap; */
+white-space: wrap;
+/* text-decoration-color: blue; */
+/* text-decoration-line: underline; */
+/* text-decoration-line: overline; */
+text-decoration-line: line-through;
+text-decoration: underline dashed green 5px;
+
+}
+#anchor{
+    text-decoration: none;
+}
+#alignment{
+    /* text-align: right;
+    text-align: left; */
+    /* text-align: center; */
+    text-align: justify;
+    /* direction: rtl; */
+    direction: ltr;
+ background-color: #501212;
+}
